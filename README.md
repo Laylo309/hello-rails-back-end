@@ -48,7 +48,7 @@ $ rails db:seed
 
  - Ruby on Rails  
  - PostgreSQL 
-</br>
+
 
 ## Author
 
