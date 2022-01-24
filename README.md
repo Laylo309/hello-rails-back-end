@@ -6,6 +6,8 @@
 
 This is a simple study project, Here I'm creating a rails API to provide data to a front-end app!
 
+[Link to react-app](https://github.com/Laylo309/hello-rails-front-end)
+
 ## Getting Started
 To run the project locally, copy up and running follow these simple example steps :
 
