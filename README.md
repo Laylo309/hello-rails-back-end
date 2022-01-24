@@ -2,7 +2,7 @@
     <img alt="Microverse" src="https://img.shields.io/badge/-Microverse-blueviolet?style=flat-square">
   </a>
 
-# Hello Rails Back-end
+# Hello REACT-RAILS Back-end
 
 This is a simple study project, Here I'm creating a rails API to provide data to a front-end app!
 
